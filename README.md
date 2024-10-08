@@ -10,9 +10,9 @@ To further refine my data skills, I completed a 12-week intensive course at MIT,
 Here are a few projects I've worked on:
 
 - [Loan Classification Model (Unsupervised & Supervised Learning)](https://github.com/Mike-R-B-Lab/Loan_Classification_Model)
-- [Sales Forecast Regression Model (Supervised Learning)](https://github.com/Mike-R-B-Lab/Sales_Forecast)
 - [Stock Portfolio Optimization (Network Analysis)](https://github.com/Mike-R-B-Lab/Stock_Portfolio_Optimization)
 - [NYC Shootings (Power BI)](https://github.com/Mike-R-B-Lab/NYC_Shootings)
+- [Sales Forecast Regression Model (Supervised Learning)](https://github.com/Mike-R-B-Lab/Sales_Forecast)
 -------------------
 About me, I love traveling and being outside. Just recently came back from 6 weeks in London (not the best place to be outside). I'm also big on health and sports. Played rugby and basketball in my hayday and now focused on staying fit.
 
