@@ -14,6 +14,6 @@ Here are a few projects I've worked on:
 - [Stock Portfolio Optimization (Network Analysis)](https://github.com/Mike-R-B-Lab/Stock_Portfolio_Optimization)
 - [NYC Shootings (Power BI)](https://github.com/Mike-R-B-Lab/NYC_Shootings)
 -------------------
-About me, I love traveling and being outside. Just recently came back from 6 weeks in London (not the best place to be outisde). I'm also big on health and sports. Played rugby and basketball in my hayday and now focused on staying fit.
+About me, I love traveling and being outside. Just recently came back from 6 weeks in London (not the best place to be outside). I'm also big on health and sports. Played rugby and basketball in my hayday and now focused on staying fit.
 
 I'm excited to continue growing in the fields of data science, machine learning, and cloud computing. 
